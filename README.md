@@ -2,7 +2,8 @@
 node_server 강의자료
 
 NODE.js 교육자료 ( API SERVER )
-vue_dashboard와 같이 실행
+
+repo vue_dashboard와 같이 실행
 
 ## Build Setup
 
