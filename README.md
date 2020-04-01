@@ -1,5 +1,5 @@
 # node_server_edu
-node_server 강의자료
+node_server 교육자료
 
 NODE.js 교육자료 ( API SERVER )
 
